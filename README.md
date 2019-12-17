@@ -22,3 +22,6 @@ Step2: Go inside the project folder, open cmd then type hangman.py and enter to 
 Simply, double click the hangman.py file and you are ready to go.
 
 The Hangman In Python with source code is free to download, use for educational purposes only.
+
+## License
+© 2019 [T.Y.Brains](https://www.tybrains.com/). All Rights Reserved | by Developed [Momen Shili](https://www.tybrains.com/momen%20shili/) 
